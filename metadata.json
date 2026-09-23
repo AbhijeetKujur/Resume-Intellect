@@ -1,0 +1,5 @@
+{
+  "name": "Resume Intellect",
+  "description": "Upload your resume to get AI-powered feedback and project-specific interview questions.",
+  "requestFramePermissions": ["microphone"]
+}
